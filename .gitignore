@@ -1,0 +1,14 @@
+# Node modules
+**/node_modules/
+
+# Logs
+*.log
+
+# dotenv files (if used)
+*.env
+
+# Vite cache
+frontend/.vite/
+
+# OS files
+.DS_Store
